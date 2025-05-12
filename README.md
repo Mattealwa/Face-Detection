@@ -5,7 +5,7 @@ A simple OpenCV-powered toolkit to capture images, detect faces in real time, an
 ## Features
 
 * Capture face images directly from your webcam
-* Real-time face detection with OpenCV Haar cascades
+* Real-time face detection with OpenCV
 * Organize images into datasets for training or testing
 * Visualize datasets and detected faces easily
 
